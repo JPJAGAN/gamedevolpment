@@ -1,11 +1,12 @@
+# NAME: JAGAN JP
+# REG.NO: 212224230099
+
 # EX 9 : IMAGE EDITING
+# AIM:
 
-## AIM:
+To edit an image using an image editing software.
 
- To edit an image using an image editing software.
-
-## EDITING
-
+# EDITING:
 
 ⮚	Open your project file and create a duplicate.
 
@@ -13,9 +14,7 @@
 
 ⮚	Change the image size using canvas technique.
 
-
-## BACK GROUND CHANGING
-
+# BACK GROUND CHANGING:
 
 ⮚	Select the area to change the back ground using magic wand tool.
 
@@ -25,9 +24,7 @@
 
 ⮚	Using selection tool, move the back ground.
 
-
-## CHANGING COLOUR
-
+# CHANGING COLOUR:
 
 ⮚	Select the area using Lasso tool .
 
@@ -35,12 +32,7 @@
 
 ⮚	Change the colour using RGB mode.
 
-
-
-
-
-## CHANGING THE SIZE
-
+# CHANGING THE SIZE:
 
 ⮚	Select your image and go to edit and select transform.
 
@@ -48,6 +40,9 @@
 
 ⮚	Press enter to set the size.
 
+# OUTPUT:
 
+![Contact  9876543210 (1)](https://github.com/user-attachments/assets/ed293d05-e6d0-42ff-bdfc-e77842772674)
 
-## OUTPUT:
+# RESULT:
+Thus, to edit an image using an image editing software has been done successfully.
