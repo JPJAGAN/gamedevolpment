@@ -41,7 +41,6 @@ To edit an image using an image editing software.
 ⮚	Press enter to set the size.
 
 # OUTPUT:
-
 ![Contact  9876543210 (1)](https://github.com/user-attachments/assets/ed293d05-e6d0-42ff-bdfc-e77842772674)
 
 # RESULT:
